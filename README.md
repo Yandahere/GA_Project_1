@@ -27,8 +27,9 @@ North Dakota has the lowest participation rates in both 2018 and 2019 of SAT sco
 There was a dropped in the average total score of SAT scores when top ivy univerisities dropped their SAT requirements however there was an increase in means of the participation rates.
 From 2017 to 2019, there was a decrease in the means of the total scores. (2017 : *1126* , 2018 : *1120* , 2019 : *1113* )
 From 2017 to 2019, there was an increase in means of the participation rates. (2017 : *0.398* , 2018 : *0.457* , 2019 : *0.491*)
-At least 5 top Ivy Universities such as Harvard dropped the SAT requirements which might have influenced the total scores, however there is also an increased in particpation.
-A possible reason for an increase in SAT participation rates could be the accessbility of fee waivers. As the SAT costs 60USD, some students are not able to afford it. However, the fee waival has changed over the years, allowing more students to take the SAT. https://satsuite.collegeboard.org/media/pdf/sat-fee-waiver-student-brochure.pdf
+At least 5 top Ivy Universities such as Harvard dropped the SAT requirements which has influenced the total scores and participation rates.Some recommendations that can be made to improve SAT scores and increase participation scores is to put emphasis and educate high school students the importance of the SAT such as scholorship eligiblity and identify areas to improve to prepare students for college.
+To increase the participation rates of students is to reduce the 60 USD fee of taking the SAT and by easing the fee waiver eligibility.
+https://satsuite.collegeboard.org/media/pdf/sat-fee-waiver-student-brochure.pdf
 Another possible reason is that some states might instate mandatory SAT.
 It is recommended to conduct further data analysis into other external factors that might affect the SAT total scores such as the pandemic that occured in the later part of 2019, any possible changes to the learning structure and changes in the political background.
 As of 2022, majority of universities have dropped the SAT requirement and more notable changes to the total scores and participation rate might be observed to further investigate the influence of universities admissions on total SAT scores.
